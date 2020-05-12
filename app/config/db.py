@@ -9,7 +9,7 @@ SQLITE = {
     }
 }
 
-POSTGRES = {
+POSTGRESS = {
     'default': {
         'NAME': 'db-curso',
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
